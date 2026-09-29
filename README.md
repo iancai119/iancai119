@@ -2,6 +2,8 @@
 
 Undergraduate student at the University of Central Arkansas (Conway, AR), studying Information Systems. I like building things with data — from SQL databases to web dashboards.
 
+🎓 Graduating May 2027 · 💼 Open to full-time opportunities
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, SQL (Oracle), JavaScript, HTML/CSS

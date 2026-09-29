@@ -16,4 +16,6 @@ Undergraduate student at the University of Central Arkansas (Conway, AR), studyi
 ## 📫 Contact
 
 - 📍 Conway, AR
+- 📧 School: ycai@cub.uca.edu
+- 📧 Personal: caiyanzhe9@gmail.com
 - 💻 [github.com/iancai119](https://github.com/iancai119)
